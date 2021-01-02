@@ -1,0 +1,23 @@
+REQUIREMENTS:
+1. Visual Studio Code
+2. Google Chrome
+3. Firebase
+4. DialogFlow
+
+LANGUAGES USED:
+1. HTML5
+2. CSS
+3. JAVASCRIPT
+4. BOOTSTRAP
+
+EXECUTION:
+1. Imported some awesome font icons, bootstraped owl carousal theme, AOS library and custom styling.
+2. Using actions.google.com created own chatbot from DialogFlow and connected it to both Google assistant and the beta feature called Phone gateway.
+3. Did javascript coding to make the feedback form voice enabled.
+
+DEPLOYED ON FIREBASE
+Url to the website is : 
+Project Console: https://console.firebase.google.com/project/jollydays-bc699/overview
+Hosting URL: https://jollydays-bc699.web.app
+
+Call JollyBot for 24/7 assistance here: +1 614-385-0233
